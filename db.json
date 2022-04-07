@@ -1,0 +1,61 @@
+{
+	"centro_custo": [
+		{ "id":  1, "nome": "TI Geral",			"departamento":  1, "valor_mensal":  5000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id":  2, "nome": "TI Capacitação",		"departamento":  1, "valor_mensal": 10000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id":  3, "nome": "TI Operações",		"departamento":  1, "valor_mensal":  1000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id":  4, "nome": "TI Suporte",		"departamento":  1, "valor_mensal":  1000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id":  5, "nome": "TI Manutenção",		"departamento":  1, "valor_mensal":  1000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id":  6, "nome": "Eng Geral",		"departamento":  2, "valor_mensal":  5000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id":  7, "nome": "Eng Capacitação",		"departamento":  2, "valor_mensal": 10000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id":  8, "nome": "Eng Desenv. Novos Prod.",	"departamento":  2, "valor_mensal": 10000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id":  9, "nome": "Eng Desenv. Software",	"departamento":  2, "valor_mensal": 10000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 10, "nome": "Vendas Geral",		"departamento":  3, "valor_mensal":  5000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 11, "nome": "Vendas Capacitação",	"departamento":  3, "valor_mensal":  5000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 12, "nome": "Vendas Premiação",		"departamento":  3, "valor_mensal":  5000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 13, "nome": "Vendas Prospetar Cliente",	"departamento":  3, "valor_mensal":  5000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 14, "nome": "Vendas Fidelização",	"departamento":  3, "valor_mensal":  5000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 15, "nome": "Vendas Propaganda",	"departamento":  3, "valor_mensal":  5000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 16, "nome": "Financeiro Geral",		"departamento":  4, "valor_mensal":  5000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 17, "nome": "Financeiro Capacitação",	"departamento":  4, "valor_mensal":  5000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 18, "nome": "Financeiro Invest",	"departamento":  4, "valor_mensal":  5000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 19, "nome": "Estoque Geral",		"departamento":  5, "valor_mensal":  5000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 20, "nome": "Estoque Manut. Equip.",	"departamento":  5, "valor_mensal": 10000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 21, "nome": "Estoque Treinamento",	"departamento":  5, "valor_mensal":  5000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 22, "nome": "Estoque Proj. Coletores",	"departamento":  5, "valor_mensal": 50000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 23, "nome": "Estoque Proj. Robotização","departamento":  5, "valor_mensal": 50000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 24, "nome": "Compras Geral",		"departamento":  6, "valor_mensal": 10000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 25, "nome": "Compras Visitas Eventos",	"departamento":  6, "valor_mensal": 10000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 26, "nome": "Compras Capacitação",	"departamento":  6, "valor_mensal":  5000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 27, "nome": "RH Geral",			"departamento":  7, "valor_mensal":  5000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 28, "nome": "RH Capacitação",		"departamento":  7, "valor_mensal":  5000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 29, "nome": "RH Terceirizados",		"departamento":  7, "valor_mensal": 10000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 30, "nome": "Admin. Geral",		"departamento":  8, "valor_mensal": 10000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 31, "nome": "Admin. Capacitação",	"departamento":  8, "valor_mensal":  5000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 32, "nome": "Admin. Eventos",		"departamento":  8, "valor_mensal": 10000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 },
+		{ "id": 33, "nome": "Admin. Terceirizados",	"departamento":  8, "valor_mensal":  5000.00, "gasto_mensal": 0.00, "resultado_mensal": 0.00 }
+	],
+	"historico_consumo_ccusto": [
+		{ "id": 1, "ccusto": 1, "data": "2022/04/01", "historico": "gasto com...", "valor": 100.00 },
+		{ "id": 2, "ccusto": 2, "data": "2022/04/01", "historico": "gasto com...", "valor": 100.00 },
+		{ "id": 3, "ccusto": 3, "data": "2022/04/01", "historico": "gasto com...", "valor": 100.00 },
+		{ "id": 4, "ccusto": 4, "data": "2022/04/01", "historico": "gasto com...", "valor": 100.00 },
+		{ "id": 5, "ccusto": 4, "data": "2022/04/01", "historico": "trasferencia para cc 3", "valor": 500.00 },
+		{ "id": 6, "ccusto": 3, "data": "2022/04/01", "historico": "recebe trasferencia do cc 4", "valor": -500.00 }
+	], 
+	"historico_resultados_ccusto": [
+		{ "id": 1, "ccusto": 4, "data": "2022/04/01", "historico": "suporte funcionario parado 1h bug sistema", "valor_beneficio": 100.00 },
+		{ "id": 2, "ccusto": 4, "data": "2022/04/01", "historico": "suporte funcionario parado 2h bug sistema", "valor_beneficio": 200.00 },
+		{ "id": 3, "ccusto": 4, "data": "2022/04/01", "historico": "suporte funcionario parado 1h bug sistema", "valor_beneficio": 100.00 },
+		{ "id": 4, "ccusto": 4, "data": "2022/04/01", "historico": "suporte funcionario parado 1d bug sistema", "valor_beneficio": 800.00 },
+		{ "id": 5, "ccusto": 4, "data": "2022/04/01", "historico": "suporte funcionario parado 1h bug sistema", "valor_beneficio": 100.00 },
+		{ "id": 6, "ccusto": 5, "data": "2022/04/01", "historico": "suporte impressora parada 1h bug sistema 1% operação venda", "valor_beneficio": 50.00 }
+	],
+	"sobrando": [
+	],
+	"sobrando2": [
+	],
+	"profile": {
+	    "name": "typicode"
+	}
+}
+
